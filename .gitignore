@@ -1,0 +1,7 @@
+*
+!.gitignore
+!codigo/
+!codigo/**
+codigo/__pycache__/
+!sol_tarea3.pdf
+!sol_tarea3_recortada.pdf
